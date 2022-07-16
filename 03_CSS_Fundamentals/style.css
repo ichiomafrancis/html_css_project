@@ -11,6 +11,13 @@ body {
   border-top: 10px solid #1098ad;
 }
 
+.container {
+  width: 800px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 0 auto;
+}
+
 .main-header {
   background-color: #f7f7f7;
   /* padding: 20px;
@@ -148,7 +155,7 @@ article p:first-child {
   color: red;
 } */
 
-/* This four (4) state of the hyper links are always defined in this order Link Hover Visited Active LVHA  */
+/* This four (4) state of the hyper links are always defined in this order Link Hover Visited Active - LVHA */
 a:link {
   color: #1098ad;
   text-decoration: none;
